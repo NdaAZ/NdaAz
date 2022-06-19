@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   	<img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo" width="40" height="40" >
  	 <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo" width="40" height="40" >
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
+	<img title="Tableau" alt="Tableau" src="https://user-images.githubusercontent.com/106869099/174495706-5f189644-2705-4e76-8324-f45d6af6fbc7.png" width="200" />
 	
 </p>
 </ br>
