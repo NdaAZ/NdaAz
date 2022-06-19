@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p><a href="https://13.250.87.192/Eportfolio/">➡️ Check out my website</a></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+
 
 
 
