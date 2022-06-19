@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
 </p>
 </ br>
+<br>
+
 
 
 🔗 &nbsp;**Connect with me**
