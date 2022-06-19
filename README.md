@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="50" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="40" height="40"  />
+	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />	<img title="Matlab" alt="MySQL" src="https://user-images.githubusercontent.com/106869099/174495101-b2adb160-d107-45c9-a4e1-12006094e2bb.png" width="40" height="40" />
- <img title="Tableau" alt="Tableau" src="https://user-images.githubusercontent.com/106869099/174495795-576b16d9-37b1-4d9d-98fa-a523ab89a3c1.png" width="60" />
+	<img title="Tableau" alt="Tableau" src="https://user-images.githubusercontent.com/106869099/174495795-576b16d9-37b1-4d9d-98fa-a523ab89a3c1.png" width="60" />
 	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 	<img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" />
 
