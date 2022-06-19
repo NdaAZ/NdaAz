@@ -20,7 +20,7 @@ Here are some ideas to get you started:
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
 
-<p><img src="https://github-readme-stats.NdaAZ.app/api?username=NdaAZ&amp;show_icons=true&line_height=21&theme=react" alt="GitHub Stats"></p>
+
 
 ### My skills include
 
@@ -49,7 +49,5 @@ Here are some ideas to get you started:
   
 ### 🚀 Quick Stats
 <p align="left">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=NdaAZ&show_icons=true&line_height=21&theme=react" alt="defcon27's Github Stats" />
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=NdaAZ&amp;show_icons=true&line_height=21&theme=react" alt="GitHub Stats"></p>
 
