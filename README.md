@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
 </p>
+</ br>
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
