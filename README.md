@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 	<img title="Tableau" alt="Tableau" src="https://user-images.githubusercontent.com/106869099/174495795-576b16d9-37b1-4d9d-98fa-a523ab89a3c1.png" width="60" />
 	<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 	<img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" />
-	<img height="30" src="https://user-images.githubusercontent.com/106869099/174496298-cb1c02d1-03ac-4a93-9235-860c1bf52ee6.png" width="50" height="70" />
+	<img height="30" src="https://user-images.githubusercontent.com/106869099/174496298-cb1c02d1-03ac-4a93-9235-860c1bf52ee6.png" width="70" height="70" />
 
 </ br>
 <br>
