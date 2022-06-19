@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
+	<img title="Tableau" alt="Tableau" src="https://commons.wikimedia.org/wiki/File:Matlab_Logo.png" width="200" />
+	
 </p>
 </ br>
 <br>
