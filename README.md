@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 ### Quick Stats
 	
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NdaAZ;show_icons=true&line_height=21&theme=react" alt="GitHub Stats"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=NdaAZ&amp;show_icons=true&line_height=21&theme=react" alt="GitHub Stats"></p>
 
